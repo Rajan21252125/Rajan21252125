@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rajan.netlify.app/](https://portfolio-rajan.netlify.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://stranger2125.me/)
 
 - 📫 How to reach me **grajan408@gmail.com**
 
