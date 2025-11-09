@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://stranger2125.me/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://rajan-gupta.dev/)
 
 - 📫 How to reach me **grajan408@gmail.com**
 
